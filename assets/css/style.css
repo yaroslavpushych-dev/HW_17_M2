@@ -65,7 +65,7 @@ body {
     height: 80px;
     border: 1px solid white;
     display: flex;
-    /* flex-direction: row-reverse; */
+    flex-direction: row-reverse;
     align-items: center;
     padding: 15px 25px;
 }
